@@ -1,6 +1,6 @@
 # Computer Architecture
 
-This repository contains the solutions to assignments given in the COL216 (Computer Architecture) course of IIT Delhi.
+This repository contains the solutions to assignments given in IIT Delhi's computer architecture course.
 
 ## Lessons Learned
 
